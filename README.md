@@ -1,6 +1,4 @@
 
-
-````md
 # Secret Message Decoder
 
 This project decodes a hidden uppercase message from a published Google Doc that contains a table of Unicode characters and their positions in a 2D grid.
